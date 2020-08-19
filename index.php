@@ -124,7 +124,7 @@ if ($student_data) {
                     <div class="card card-outline-secondary">
                         <div class="card-body">
                             <div class="col-md-12">
-                                <h3 class="text-center mb-5">PHP + Reactjs Machine Test Instructions</h3>
+                                <h3 class="text-center mb-5">PHP + (Reactjs or Angular 8+) Machine Test Instructions</h3>
                                 <div class="card card-outline-secondary">
                                     <div class="card-body">
                                         <div class="form-group row">
