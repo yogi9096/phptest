@@ -43,14 +43,19 @@ $config = [
             ],
         ],
         'db' => $db,
-        /*
+        
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
             ],
         ],
-        */
+        
+    ],
+    'modules' => [
+        'api' => [
+            'class' => 'app\modules\api\V1',
+        ],
     ],
     'params' => $params,
 ];
