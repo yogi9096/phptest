@@ -42,6 +42,9 @@ $config = [
                 ],
             ],
         ],
+        'api' => [
+            'class' => 'app\modules\api\components\Api',
+        ],
         'db' => $db,
         
         'urlManager' => [
