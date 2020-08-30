@@ -6,6 +6,13 @@
     <br>
 </p>
 
+1.api Module created
+2.behaviours and component created for formating success and error reponse.
+3.migation created for student table
+4.Auth check not implemented
+5.swagger api documentation is not generated due to time limit.
+6.Anguler code is not committed
+
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
